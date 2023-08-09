@@ -10,3 +10,5 @@
 *) Запуск сервера: C:\OSPanel\modules\php\PHP_8.0\php.exe -S localhost:8000 -t public
 
 1) Установка laravel composer create-project laravel/laravel sanctum_laravel_vue_back 8.*
+
+2) Создал базу данных "step_3_2_sanctum", подключился, накатил/откатил миграции
