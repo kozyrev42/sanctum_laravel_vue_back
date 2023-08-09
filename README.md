@@ -12,3 +12,5 @@
 1) Установка laravel composer create-project laravel/laravel sanctum_laravel_vue_back 8.*
 
 2) Создал базу данных "step_3_2_sanctum", подключился, накатил/откатил миграции
+
+3) Сделал тестовый роут, для проверки фронтового "axios"
